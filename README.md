@@ -2,7 +2,7 @@
 **I didn't make this i just converted these to fivem.**
 
 **Installation:**
-- Download [WEAPONS]
+- Download `[WEAPONS]`
 - Put it into your resources folder
 - Add `ensure [WEAPONS]` into your server.cfg
 
