@@ -7,7 +7,7 @@
 - Add `ensure [WEAPONS]` into your server.cfg
 
 **Includes:**
-- `weapon_assaultrifle` - AK-D7
+- `weapon_assaultrifle` - AK-47
 - `weapon_nightstick` - ASP Baton
 - `weapon_advancedrifle` - Aug A1
 - `weapon_pistol` - Beretta M9A3
